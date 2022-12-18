@@ -4,9 +4,9 @@
 // M = 1; N = 15 -> 120
 // M = 4; N = 8. -> 30
 
-Console.WriteLine("Задайте число N: ");
-int m = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Задайте число M: ");
+int m = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Задайте число N: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 int SumNum(int m, int n)
