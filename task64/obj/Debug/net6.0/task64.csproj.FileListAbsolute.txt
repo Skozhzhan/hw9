@@ -1,0 +1,15 @@
+/Users/xxx/Desktop/GB/homework_c#/hw9/task64/bin/Debug/net6.0/task64
+/Users/xxx/Desktop/GB/homework_c#/hw9/task64/bin/Debug/net6.0/task64.deps.json
+/Users/xxx/Desktop/GB/homework_c#/hw9/task64/bin/Debug/net6.0/task64.runtimeconfig.json
+/Users/xxx/Desktop/GB/homework_c#/hw9/task64/bin/Debug/net6.0/task64.dll
+/Users/xxx/Desktop/GB/homework_c#/hw9/task64/bin/Debug/net6.0/task64.pdb
+/Users/xxx/Desktop/GB/homework_c#/hw9/task64/obj/Debug/net6.0/task64.csproj.AssemblyReference.cache
+/Users/xxx/Desktop/GB/homework_c#/hw9/task64/obj/Debug/net6.0/task64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xxx/Desktop/GB/homework_c#/hw9/task64/obj/Debug/net6.0/task64.AssemblyInfoInputs.cache
+/Users/xxx/Desktop/GB/homework_c#/hw9/task64/obj/Debug/net6.0/task64.AssemblyInfo.cs
+/Users/xxx/Desktop/GB/homework_c#/hw9/task64/obj/Debug/net6.0/task64.csproj.CoreCompileInputs.cache
+/Users/xxx/Desktop/GB/homework_c#/hw9/task64/obj/Debug/net6.0/task64.dll
+/Users/xxx/Desktop/GB/homework_c#/hw9/task64/obj/Debug/net6.0/refint/task64.dll
+/Users/xxx/Desktop/GB/homework_c#/hw9/task64/obj/Debug/net6.0/task64.pdb
+/Users/xxx/Desktop/GB/homework_c#/hw9/task64/obj/Debug/net6.0/task64.genruntimeconfig.cache
+/Users/xxx/Desktop/GB/homework_c#/hw9/task64/obj/Debug/net6.0/ref/task64.dll
